@@ -1,0 +1,7 @@
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\bin\Debug\Gradients.dll
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\bin\Debug\Gradients.pdb
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\bin\Debug\Microsoft.Xna.Framework.dll
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\obj\Debug\Gradients.csprojResolveAssemblyReference.cache
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\obj\Debug\Gradients.csproj.CoreCompileInputs.cache
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\obj\Debug\Gradients.dll
+c:\users\hunter muir\documents\visual studio 2017\Projects\Gradients\Gradients\obj\Debug\Gradients.pdb
